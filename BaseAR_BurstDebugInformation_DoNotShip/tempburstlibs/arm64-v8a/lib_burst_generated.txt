@@ -10,6 +10,7 @@ Library: C:\Users\tyler\src\projects\augmented_reality\Temp\BurstOutput\tempburs
 --target-framework=NetFramework
 --float-mode=Fast
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Google.XR.ARCoreExtensions;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
 --assembly-defines=System.Configuration;
@@ -55,6 +56,7 @@ Library: C:\Users\tyler\src\projects\augmented_reality\Temp\BurstOutput\tempburs
 --float-precision=Standard
 --target-framework=NetFramework
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Google.XR.ARCoreExtensions;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
 --assembly-defines=System.Configuration;
